@@ -52,7 +52,9 @@ No Capítulo 1 é feita a introdução sobre o tema apresentado.
 
  
 2. FUNDAMENTAÇÃO TÉCNICA
+
 Para a realização deste projeto será usado Machine Learning, utilizando a linguagem Python e as seguintes bibliotecas: NumPy, Pandas e Scikit-Learn.
+
 2.1. Machine Learning
      Machine Learning tem seu aprendizado baseado em experiência. De modo que os computadores possam ser programados a partir dos dados que foram treinados anteriormente, adquirindo a habilidade de identificar elementos e suas características com alta probabilidade.
 Estágios do Machine Learning:
