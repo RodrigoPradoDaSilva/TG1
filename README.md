@@ -51,8 +51,40 @@ No Capítulo 1 é feita a introdução sobre o tema apresentado.
 # 2ª Quinzena de maio
 
  
+2. FUNDAMENTAÇÃO TÉCNICA
+Para a realização deste projeto será usado Machine Learning, utilizando a linguagem Python e as seguintes bibliotecas: NumPy, Pandas e Scikit-Learn.
+2.1. Machine Learning
+     Machine Learning tem seu aprendizado baseado em experiência. De modo que os computadores possam ser programados a partir dos dados que foram treinados anteriormente, adquirindo a habilidade de identificar elementos e suas características com alta probabilidade.
+Estágios do Machine Learning:
+•	Coleta de dados
+•	Ordenação dos dados
+•	Análise dos dados
+•	Desenvolvimento do algoritmo 
+•	Testar o algoritmo gerado 
+•	Usar o algoritmo para gerar informações
 
-(coloque aqui tudo que você fez referente ao capítulo 2 no formato exato de BD)
+Para identificar padrões, vários algoritmos são usados e podem ser divididos em dois grupos: Aprendizado supervisionado e aprendizado não supervisionado. 
+	O aprendizado supervisionado a máquina tem a habilidade de reconhecer elementos baseado nas amostras fornecidas. O computador estuda isso e desenvolve a habilidade de reconhecer novos dados.
+	O aprendizado não supervisionado a máquina recebe apenas o input de dados definido. A partir disso, a máquina poderá determinar a relação entre os dados inseridos e quaisquer outros dados hipotéticos. Diferentemente do aprendizado supervisionado, onde a máquina recebe alguns dados de verificação para aprendizado, o aprendizado não supervisionado implica que o próprio computador encontrará padrões e relacionamentos entre diferentes conjuntos de dados.
+   
+2.2. Python
+A linguagem Python será usada no desenvolvimento deste projeto devido a sua facilidade de uso e aprendizado, principalmente no âmbito de Machine Learning. Python é uma linguagem minimalista e intuitiva com frameworks completos para programar Machine Learning. 
+	
+
+
+2.3. Biblioteca NumPy
+
+NumPy é abreviação de Numerical Python, é a biblioteca mais universal e versátil para profissionais e iniciantes. Com esta ferramenta, é possível fazer operações com matrizes e matrizes multidimensionais com facilidade. Funções como álgebra linear e conversões numéricas também estão disponíveis.
+
+
+2.4. Pandas
+
+Pandas é uma ferramenta de alto desempenho para apresentar quadros de dados. É possível carregar dados de praticamente qualquer fonte, calcular funções, criar parâmetros novos, criar consultas aos dados usando funções semelhantes ao SQL. Além disso, existem várias funções de transformação de matriz e outros métodos para obter informações de dados.
+
+2.5. Biblioteca Scikit-Learn
+
+Scikit-Learn implementa uma ampla variedade de algoritmos de Machine Learning e facilita a conexão deles em aplicativos reais. É possível usar várias funções como regressão, clustering, seleção de modelos, pré-processamento, classificação e entre outros. 
+
 
  
 
