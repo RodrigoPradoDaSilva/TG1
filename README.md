@@ -56,7 +56,9 @@ No Capítulo 1 é feita a introdução sobre o tema apresentado.
 Para a realização deste projeto será usado Machine Learning, utilizando a linguagem Python e as seguintes bibliotecas: NumPy, Pandas e Scikit-Learn.
 
 2.1. Machine Learning
-     Machine Learning tem seu aprendizado baseado em experiência. De modo que os computadores possam ser programados a partir dos dados que foram treinados anteriormente, adquirindo a habilidade de identificar elementos e suas características com alta probabilidade.
+
+Machine Learning tem seu aprendizado baseado em experiência. De modo que os computadores possam ser programados a partir dos dados que foram treinados anteriormente, adquirindo a habilidade de identificar elementos e suas características com alta probabilidade.
+
 Estágios do Machine Learning:
 •	Coleta de dados
 •	Ordenação dos dados
@@ -70,6 +72,7 @@ Para identificar padrões, vários algoritmos são usados e podem ser divididos 
 	O aprendizado não supervisionado a máquina recebe apenas o input de dados definido. A partir disso, a máquina poderá determinar a relação entre os dados inseridos e quaisquer outros dados hipotéticos. Diferentemente do aprendizado supervisionado, onde a máquina recebe alguns dados de verificação para aprendizado, o aprendizado não supervisionado implica que o próprio computador encontrará padrões e relacionamentos entre diferentes conjuntos de dados.
    
 2.2. Python
+
 A linguagem Python será usada no desenvolvimento deste projeto devido a sua facilidade de uso e aprendizado, principalmente no âmbito de Machine Learning. Python é uma linguagem minimalista e intuitiva com frameworks completos para programar Machine Learning. 
 	
 
