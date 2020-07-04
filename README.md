@@ -74,8 +74,10 @@ Estágios do Machine Learning:
 •	Usar o algoritmo para gerar informações
 
 Para identificar padrões, vários algoritmos são usados e podem ser divididos em dois grupos: Aprendizado supervisionado e aprendizado não supervisionado. 
-	O aprendizado supervisionado a máquina tem a habilidade de reconhecer elementos baseado nas amostras fornecidas. O computador estuda isso e desenvolve a habilidade de reconhecer novos dados.
-	O aprendizado não supervisionado a máquina recebe apenas o input de dados definido. A partir disso, a máquina poderá determinar a relação entre os dados inseridos e quaisquer outros dados hipotéticos. Diferentemente do aprendizado supervisionado, onde a máquina recebe alguns dados de verificação para aprendizado, o aprendizado não supervisionado implica que o próprio computador encontrará padrões e relacionamentos entre diferentes conjuntos de dados.
+
+O aprendizado supervisionado a máquina tem a habilidade de reconhecer elementos baseado nas amostras fornecidas. O computador estuda isso e desenvolve a habilidade de reconhecer novos dados.
+
+O aprendizado não supervisionado a máquina recebe apenas o input de dados definido. A partir disso, a máquina poderá determinar a relação entre os dados inseridos e quaisquer outros dados hipotéticos. Diferentemente do aprendizado supervisionado, onde a máquina recebe alguns dados de verificação para aprendizado, o aprendizado não supervisionado implica que o próprio computador encontrará padrões e relacionamentos entre diferentes conjuntos de dados.
    
 2.2. Python
 
