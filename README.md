@@ -60,11 +60,17 @@ Para a realização deste projeto será usado Machine Learning, utilizando a lin
 Machine Learning tem seu aprendizado baseado em experiência. De modo que os computadores possam ser programados a partir dos dados que foram treinados anteriormente, adquirindo a habilidade de identificar elementos e suas características com alta probabilidade.
 
 Estágios do Machine Learning:
+
 •	Coleta de dados
+
 •	Ordenação dos dados
+
 •	Análise dos dados
+
 •	Desenvolvimento do algoritmo 
+
 •	Testar o algoritmo gerado 
+
 •	Usar o algoritmo para gerar informações
 
 Para identificar padrões, vários algoritmos são usados e podem ser divididos em dois grupos: Aprendizado supervisionado e aprendizado não supervisionado. 
