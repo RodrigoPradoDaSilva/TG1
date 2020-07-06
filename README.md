@@ -21,7 +21,7 @@ Título do TG: UTILIZAÇÃO DE MACHINE LEARNING PARA REVISÃO DE DOCUMENTOS E PE
 
  
 
-1.	INTRODUÇÃO
+1.	INTRODUÇÃO(Underline)
 
 Com o avanço tecnológico cada vez mais profissões estão sendo facilitadas ou substituídas por tecnologia. Dado que muitas tarefas repetitivas e exaustivas tendem a levar muito tempo e necessitar de muito esforço para que pessoas possam realiza-las, além disso pessoas podem ter diferentes fatores que podem mudar o resultado da tarefa, como por exemplo cansado, sono, fome, humor, stress e vários outros fatores, sendo assim mais propenso à cometer erros, onde tecnologias estão menos propensas a cometer tais erros, além de poder trabalhar sem descanso e ainda ser mais rápido e eficiente na realização das tarefas. 
 
