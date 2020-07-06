@@ -19,9 +19,6 @@ Orientador: Giuliano Bertoti.
 Título do TG: UTILIZAÇÃO DE MACHINE LEARNING PARA REVISÃO DE DOCUMENTOS E PESQUISAS JURÍDICAS 
 
 
-
-# 1ª Quinzena de maio
-
  
 
 1.	INTRODUÇÃO
@@ -40,15 +37,13 @@ O objetivo geral deste trabalho é por meio da utilização de machine learning 
 Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
 -	Realizar uma investigação sobre o atual cenário jurídico em relação a tecnologia.
 -	Propor uma solução tecnológica eficaz para revisão de documentos. 
+- 	Estudar quais as melhores tecnologias para realizar o projeto. 
 
 1.2. Conteúdo do Trabalho
 O presente trabalho está estruturado em seis Capítulos, cujo conteúdo é sucintamente apresentado a seguir:
 No Capítulo 1 é feita a introdução sobre o tema apresentado. 
 
 
- 
-
-# 2ª Quinzena de maio
 
  
 2. FUNDAMENTAÇÃO TÉCNICA
@@ -101,22 +96,10 @@ Scikit-Learn implementa uma ampla variedade de algoritmos de Machine Learning e 
 
  
 
-# 1ª Quinzena de junho
- 
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD)
+3. DESENVOLVIMENTO
 
- 
+O objetivo deste capitulo é apresentar o desenvolvimento de uma ferramenta capaz de gerar dados jurídicos em informação através do uso de Machine Learning.
 
-# 2ª Quinzena de junho
+3.1. Arquitetura do Sistema
 
- 
-
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD) + crie um pasta chamada "Desenvolvimento" e coloque o início do código
-
- 
-
-# 1ª Quinzena de julho
-
- 
-
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD) + atualize a continuação do código
+A arquitetura do sistema usada será o modelo cliente-servidor, usando aprendizado supervisionado. Onde a informação é solicitada por um cliente e processada em um servidor.  
