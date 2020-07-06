@@ -40,6 +40,7 @@ O objetivo geral deste trabalho é por meio da utilização de machine learning 
 Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
 -	Realizar uma investigação sobre o atual cenário jurídico em relação a tecnologia.
 -	Propor uma solução tecnológica eficaz para revisão de documentos. 
+- 	Estudar quais as melhores tecnologias para realizar o projeto. 
 
 1.2. Conteúdo do Trabalho
 O presente trabalho está estruturado em seis Capítulos, cujo conteúdo é sucintamente apresentado a seguir:
